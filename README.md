@@ -16,12 +16,12 @@ Crio conteúdo nas redes sociais sobre **Automações, IA e Marketing**.
   <a href="https://github.com/cgn2222">
     <img src="https://img.shields.io/badge/GitHub-cgN2222-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/carlosgabrielnovo">
+    <img src="https://img.shields.io/badge/LinkedIn-CARLOS%20GABRIEL%20NOVO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" />
+  </a> 
   <a href="https://instagram.com/gabrielnovo.ai">
     <img src="https://img.shields.io/badge/Instagram-@GABRIELNOVO.AI-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-<a href="https://www.linkedin.com/in/carlosgabrielnovo">
-    <img src="https://img.shields.io/badge/LinkedIn-CARLOS%20GABRIEL%20NOVO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" />
-</a>
   <a href="https://www.youtube.com/@ogabrielnovo">
     <img src="https://img.shields.io/badge/YouTube-Gabriel%20Novo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
@@ -54,6 +54,7 @@ Crio conteúdo nas redes sociais sobre **Automações, IA e Marketing**.
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis)
@@ -64,11 +65,3 @@ Crio conteúdo nas redes sociais sobre **Automações, IA e Marketing**.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
 ![Railway](https://img.shields.io/badge/Railway-000000?style=flat-square&logo=railway)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git)
----
-
-### 📊 GitHub Stats (Apenas repositórios públicos)
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cgn2222&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgn2222&layout=compact&theme=tokyonight" />
-</p>
