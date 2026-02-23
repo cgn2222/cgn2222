@@ -1,4 +1,4 @@
-## Olá, Meu nome é Carlos Gabriel Novo!
+## Olá, meu nome é Carlos Gabriel Novo!
 
 **Especialista em Automações com IA | Desenvolvedor Python, JavaScript & TypeScript**  
 🇧🇷 Curitiba, Brasil
