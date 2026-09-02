@@ -13,7 +13,7 @@ Desenvolvo aplicações full-stack robustas, arquiteturas de APIs de alta dispon
   <a href="https://gabrielnovo.site" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-gabrielnovo.site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/carlosgabrielnovo" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielnovo-ia" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Gabriel%20Novo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
