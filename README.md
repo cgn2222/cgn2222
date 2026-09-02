@@ -1,67 +1,48 @@
-## Olá, meu nome é Carlos Gabriel Novo!
+# Olá, eu sou o Carlos Gabriel Novo! 👋
 
-**Especialista em Automações com IA | Desenvolvedor Python, JavaScript & TypeScript**  
-🇧🇷 Curitiba, Brasil
+**Desenvolvedor Full Stack | Especialista em TypeScript, Node.js e Sistemas Web Escaláveis**  
+📍 Curitiba, Paraná, Brasil (Disponível para posições remotas e híbridas)
 
-Construo **Automações Robustas**, **Agentes de IA**, e **Apps Web com foco em performance e escala**.  
-Atualmente estou focado em **Automações para Escala (Grande volume de Dados), Desenvolvimento de SaaS e LLMs**.
-
-Crio conteúdo nas redes sociais sobre **Automações, IA e Marketing**.
+Desenvolvo aplicações full-stack robustas, arquiteturas de APIs de alta disponibilidade e integrações inteligentes de sistemas projetados para resolver gargalos operacionais complexos de negócios. Apaixonado por engenharia de software desde os 13 anos, combino uma sólida base acadêmica em Análise e Desenvolvimento de Sistemas com a experiência diária de projetar, codificar e manter sistemas em produção.
 
 ---
 
-### 🌐 Onde me encontrar:
+### 🌐 Vamos nos conectar:
 
 <p align="left">
-  <a href="https://github.com/cgn2222">
-    <img src="https://img.shields.io/badge/GitHub-cgN2222-181717?style=for-the-badge&logo=github" />
+  <a href="https://gabrielnovo.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-gabrielnovo.site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/carlosgabrielnovo">
-    <img src="https://img.shields.io/badge/LinkedIn-CARLOS%20GABRIEL%20NOVO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" />
-  </a> 
-  <a href="https://instagram.com/gabrielnovo.ai">
-    <img src="https://img.shields.io/badge/Instagram-@GABRIELNOVO.AI-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/carlosgabrielnovo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Gabriel%20Novo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@ogabrielnovo">
-    <img src="https://img.shields.io/badge/YouTube-Gabriel%20Novo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="mailto:seu-email@dominio.com">
+    <img src="https://img.shields.io/badge/E-mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ O que eu faço?
+### 🛠️ Stack Técnica & Ferramentas
 
-- Criação de agentes de IA para WhatsApp e Instagram  
-- Automações avançadas com n8n  
-- Integrações via API (REST, Webhooks)  
-- Desenvolvimento backend com Node.js (JavaScript e TypeScript)  
-- Implementação de autenticação (JWT, HMAC)  
-- Sistemas de geração e qualificação de leads  
-- Estruturação de soluções digitais para negócios
-
-### 📚 O que estou aprofundando
-
-- Arquitetura de sistemas SaaS  
-- Performance e escalabilidade  
-- Aplicação prática de Large Language Models (LLMs)  
-- Engenharia de prompts  
-- Clean architecture
-
----
-
-### 🛠️ Minhas Stacks
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
+**Linguagens e Backend**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs)
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python)
+
+**Frontend e Interfaces**  
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite)
+
+**Banco de Dados, Infraestrutura & Ferramentas**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logo=openrouter)
-![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n)
-![Webhooks](https://img.shields.io/badge/Webhooks-000000?style=flat-square&logo=webhooks)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
-![Railway](https://img.shields.io/badge/Railway-000000?style=flat-square&logo=railway)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git)
+![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
