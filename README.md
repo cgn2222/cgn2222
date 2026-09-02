@@ -16,9 +16,6 @@ Desenvolvo aplicações full-stack robustas, arquiteturas de APIs de alta dispon
   <a href="https://www.linkedin.com/in/carlosgabrielnovo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Gabriel%20Novo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@dominio.com">
-    <img src="https://img.shields.io/badge/E-mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
