@@ -1,7 +1,7 @@
 # Olá, eu sou o Carlos Gabriel Novo! 👋
 
-**Desenvolvedor Full Stack | Especialista em TypeScript, Node.js e Sistemas Web Escaláveis**  
-📍 Curitiba, Paraná, Brasil (Disponível para posições remotas e híbridas)
+**Desenvolvedor Full Stack | TypeScript, Node.js, React e PostgreSQL**  
+📍 Curitiba, PR (Disponível apenas para posições remotas — Brasil e exterior)
 
 Desenvolvo aplicações full-stack robustas, arquiteturas de APIs de alta disponibilidade e integrações inteligentes de sistemas projetados para resolver gargalos operacionais complexos de negócios. Apaixonado por engenharia de software desde os 13 anos, combino uma sólida base acadêmica em Análise e Desenvolvimento de Sistemas com a experiência diária de projetar, codificar e manter sistemas em produção.
 
@@ -43,3 +43,13 @@ Desenvolvo aplicações full-stack robustas, arquiteturas de APIs de alta dispon
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git)
 ![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
+
+---
+
+### 🚀 Projetos em destaque
+
+- **CRM multi-tenant** para uma plataforma de alto volume: mais de 1 milhão de logs por dia, em produção, com Docker e testes de ponta a ponta.
+- **Plataforma de gestão (ERP)** com mais de 200 usuários ao longo do tempo.
+- **nov.iaOS** — CRM e hub de automações com IA da [Nov.IA](https://nov.ia.br), da qual sou fundador.
+
+Uso **Cursor** e **Claude Code** no dia a dia.
