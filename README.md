@@ -43,13 +43,3 @@ Desenvolvo aplicações full-stack robustas, arquiteturas de APIs de alta dispon
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git)
 ![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
-
----
-
-### 🚀 Projetos em destaque
-
-- **CRM multi-tenant** para uma plataforma de alto volume: mais de 1 milhão de logs por dia, em produção, com Docker e testes de ponta a ponta.
-- **Plataforma de gestão (ERP)** com mais de 200 usuários ao longo do tempo.
-- **nov.iaOS** — CRM e hub de automações com IA da [Nov.IA](https://nov.ia.br), da qual sou fundador.
-
-Uso **Cursor** e **Claude Code** no dia a dia.
