@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="312" viewBox="0 0 860 312" fill="none" role="img" aria-label="Carlos Gabriel Novo — Full-Stack Engineer &amp; Founder at Nov.IA">
+  <title>Carlos Gabriel Novo — Full-Stack Engineer &amp; Founder at Nov.IA</title>
+  <style>
+    .sans { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.35; }
+    }
+    @keyframes flow {
+      from { stroke-dashoffset: 16; }
+      to { stroke-dashoffset: 0; }
+    }
+    .dot-pulse { animation: pulse 2.6s ease-in-out infinite; }
+    .wire-flow { animation: flow 1.8s linear infinite; }
+    @media (prefers-reduced-motion: reduce) {
+      .dot-pulse, .wire-flow { animation: none; }
+    }
+  </style>
+
+  <defs>
+    <pattern id="grid-dark" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="0.9" fill="#ffffff" fill-opacity="0.06" />
+    </pattern>
+    <linearGradient id="accent-line-dark" x1="0" y1="0" x2="860" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f99c00" stop-opacity="0.9" />
+      <stop offset="35%" stop-color="#fcbb00" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#262626" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="card-clip-dark">
+      <rect x="0.5" y="0.5" width="859" height="311" rx="14" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card-clip-dark)">
+    <!-- Base canvas -->
+    <rect x="0.5" y="0.5" width="859" height="311" rx="14" fill="#0a0a0a" />
+    <!-- Subtle architectural dot grid on right half -->
+    <rect x="500" y="48" width="360" height="208" fill="url(#grid-dark)" />
+    <!-- Top subtle amber accent line -->
+    <rect x="0" y="0" width="860" height="2" fill="url(#accent-line-dark)" />
+
+    <!-- Top bar -->
+    <text x="32" y="30" class="mono" font-size="14" font-weight="600" letter-spacing="-0.3">
+      <tspan fill="#f99c00">&lt;/</tspan><tspan fill="#f5f5f5">cgn</tspan><tspan fill="#f99c00">&gt;</tspan>
+    </text>
+
+    <!-- Remote status pill -->
+    <rect x="620" y="13" width="208" height="22" rx="11" fill="#171717" stroke="#262626" stroke-width="1" />
+    <circle cx="634" cy="24" r="3.2" fill="#fcbb00" class="dot-pulse" />
+    <text x="645" y="27.5" class="mono" font-size="10" font-weight="500" fill="#d4d4d4" letter-spacing="0.4">REMOTE-ONLY · BR &amp; GLOBAL</text>
+
+    <!-- Top divider -->
+    <line x1="0" y1="48" x2="860" y2="48" stroke="#262626" stroke-width="1" />
+
+    <!-- Left editorial column -->
+    <text x="32" y="96" class="sans" font-size="30" font-weight="600" fill="#fafafa" letter-spacing="-0.8">Carlos Gabriel Novo</text>
+
+    <text x="32" y="124" class="sans" font-size="14.5" font-weight="500">
+      <tspan fill="#fcbb00">Full-Stack Engineer</tspan>
+      <tspan fill="#525252">  ·  </tspan>
+      <tspan fill="#d4d4d4">Founder at Nov.IA</tspan>
+    </text>
+
+    <text x="32" y="160" class="sans" font-size="13.5" fill="#a1a1a1">I design and ship end-to-end web systems — from</text>
+    <text x="32" y="181" class="sans" font-size="13.5" fill="#a1a1a1">relational data models and APIs to fast interfaces.</text>
+
+    <!-- Secondary meta tags -->
+    <g transform="translate(32, 206)">
+      <rect x="0" y="0" width="112" height="24" rx="6" fill="#141414" stroke="#262626" stroke-width="1" />
+      <text x="56" y="15.5" text-anchor="middle" class="mono" font-size="10.5" fill="#a1a1a1">Curitiba, BR</text>
+
+      <rect x="120" y="0" width="126" height="24" rx="6" fill="#141414" stroke="#262626" stroke-width="1" />
+      <text x="183" y="15.5" text-anchor="middle" class="mono" font-size="10.5" fill="#a1a1a1">Coding since 13</text>
+
+      <rect x="254" y="0" width="96" height="24" rx="6" fill="#141414" stroke="#262626" stroke-width="1" />
+      <text x="302" y="15.5" text-anchor="middle" class="mono" font-size="10.5" fill="#a1a1a1">EN · PT-BR</text>
+    </g>
+
+    <!-- Right column: End-to-End Architecture Blueprint -->
+    <rect x="526" y="66" width="302" height="172" rx="10" fill="#111111" stroke="#262626" stroke-width="1" />
+    <text x="544" y="87" class="mono" font-size="9.5" font-weight="600" fill="#737373" letter-spacing="1.2">END-TO-END OWNERSHIP</text>
+
+    <!-- Animated connector wire behind nodes -->
+    <line x1="572" y1="128" x2="572" y2="202" stroke="#f99c00" stroke-opacity="0.55" stroke-width="1.5" stroke-dasharray="4 4" class="wire-flow" />
+
+    <!-- Node 1: UI -->
+    <rect x="542" y="99" width="270" height="36" rx="7" fill="#171717" stroke="#262626" stroke-width="1" />
+    <rect x="552" y="107" width="40" height="20" rx="4" fill="#1f1708" stroke="#4a310a" stroke-width="1" />
+    <text x="572" y="120.5" text-anchor="middle" class="mono" font-size="10" font-weight="600" fill="#fcbb00">UI</text>
+    <text x="604" y="121" class="sans" font-size="12" font-weight="500" fill="#e5e5e5">React · Next.js · TypeScript</text>
+
+    <!-- Node 2: API -->
+    <rect x="542" y="145" width="270" height="36" rx="7" fill="#171717" stroke="#262626" stroke-width="1" />
+    <rect x="552" y="153" width="40" height="20" rx="4" fill="#1f1708" stroke="#4a310a" stroke-width="1" />
+    <text x="572" y="166.5" text-anchor="middle" class="mono" font-size="10" font-weight="600" fill="#fcbb00">API</text>
+    <text x="604" y="167" class="sans" font-size="12" font-weight="500" fill="#e5e5e5">Node.js · NestJS · Webhooks</text>
+
+    <!-- Node 3: DB -->
+    <rect x="542" y="191" width="270" height="36" rx="7" fill="#171717" stroke="#262626" stroke-width="1" />
+    <rect x="552" y="199" width="40" height="20" rx="4" fill="#1f1708" stroke="#4a310a" stroke-width="1" />
+    <text x="572" y="212.5" text-anchor="middle" class="mono" font-size="10" font-weight="600" fill="#fcbb00">DB</text>
+    <text x="604" y="213" class="sans" font-size="12" font-weight="500" fill="#e5e5e5">PostgreSQL · RLS · PL/pgSQL</text>
+
+    <!-- Footer divider -->
+    <line x1="0" y1="256" x2="860" y2="256" stroke="#262626" stroke-width="1" />
+
+    <!-- Footer strip: 3 columns -->
+    <text x="32" y="277" class="mono" font-size="9.5" font-weight="500" fill="#737373" letter-spacing="1">PRODUCTION FOCUS</text>
+    <text x="32" y="296" class="sans" font-size="12.5" font-weight="500" fill="#e5e5e5">ERP/CRM · APIs · Integrations</text>
+
+    <line x1="296" y1="268" x2="296" y2="300" stroke="#262626" stroke-width="1" />
+
+    <text x="318" y="277" class="mono" font-size="9.5" font-weight="500" fill="#737373" letter-spacing="1">VENTURE</text>
+    <text x="318" y="296" class="sans" font-size="12.5" font-weight="500" fill="#e5e5e5">Nov.IA — Process Automation</text>
+
+    <line x1="588" y1="268" x2="588" y2="300" stroke="#262626" stroke-width="1" />
+
+    <text x="610" y="277" class="mono" font-size="9.5" font-weight="500" fill="#737373" letter-spacing="1">CASE STUDIES &amp; RESUME</text>
+    <text x="610" y="296" class="mono" font-size="12.5" font-weight="600" fill="#fcbb00">gabrielnovo.site ↗</text>
+  </g>
+
+  <!-- Crisp outer border -->
+  <rect x="0.5" y="0.5" width="859" height="311" rx="14" stroke="#262626" stroke-width="1" />
+</svg>
